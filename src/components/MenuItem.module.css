@@ -1,0 +1,53 @@
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+  border-bottom: 1px dotted black;
+  padding-bottom: 5px;
+}
+
+.name-amount__description > .name {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: oblique;
+}
+
+.name-amount__description > .description {
+  color: black;
+  font-style: italic;
+  font-size: 12px;
+  margin-top: -10px;
+}
+
+.name-amount__description > .price {
+  color: brown;
+  font-weight: bold;
+  margin-top: -5px;
+}
+
+.amount-button {
+  align-self: center;
+}
+
+.label {
+  font-weight: bold;
+  color: black;
+  padding: 0 10px;
+}
+
+.input {
+  width: 40px;
+  border-radius: 15px;
+  padding: 0 4px;
+}
+
+.button {
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  font-weight: bold;
+}

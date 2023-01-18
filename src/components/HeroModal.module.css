@@ -1,0 +1,30 @@
+.hero-modal {
+  width: 600px;
+  color: white;
+  background-color: rgb(40, 36, 36);
+  padding: 10px 20px;
+  height: auto;
+  border-radius: 15px;
+  position: absolute;
+  text-align: center;
+  justify-items: center;
+  margin: 170px 500px;
+}
+
+.title {
+  color: aliceblue;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.first-message {
+  color: aliceblue;
+  font-size: 15px;
+  font-style: oblique;
+}
+
+.second-message {
+  color: aliceblue;
+  font-size: 15px;
+  font-style: oblique;
+}
